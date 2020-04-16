@@ -1,0 +1,21 @@
+---
+title: Hi world
+author: ~
+date: '2020-04-16'
+slug: hi-wolrd
+categories: []
+tags:
+  - R
+  - coding
+---
+# This is awesome! 
+
+## this is a subtitle
+
+- a first element
+
+- second
+
+* this
+
+**bold** and *italic*
